@@ -1,0 +1,45 @@
+_repo: Anarchism-and-Socialism_30506
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Aveling, Eleanor Marx
+    aliases:
+    - Eveling, Eleonora Marks
+    - Marx, Eleanor
+    - Marx-Aveling, Eleanor
+    - Marx, Tussy
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '902'
+    url: http://www.gutenberg.org/2009/agents/902
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Marx
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plekhanov, Georgii Valentinovich
+    aliases:
+    - Volgin, A.
+    - Плеханов, Георгий Валентинович
+    - Plechanoff, George
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '34650'
+    url: http://www.gutenberg.org/2009/agents/34650
+    wikipedia: http://en.wikipedia.org/wiki/Georgi_Plekhanov
+description: ''
+gutenberg_issued: '2009-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchism'
+- !lcc 'HX'
+- !lcsh 'Socialism'
+title: Anarchism and Socialism
+url: http://www.gutenberg.org/ebooks/30506
