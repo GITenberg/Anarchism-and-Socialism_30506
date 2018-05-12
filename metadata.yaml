@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34650
     wikipedia: http://en.wikipedia.org/wiki/Georgi_Plekhanov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30506#Anarchism-and-Socialism
 gutenberg_issued: '2009-11-20'
 gutenberg_type: Text
 identifiers:
